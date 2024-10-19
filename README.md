@@ -34,10 +34,15 @@
 **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
 </div>
+
 
 **<h3 align="left">GitHub Stats</h3>**
 
