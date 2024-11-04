@@ -1,61 +1,45 @@
-![👋 Hi, my name is Abubaker Khaled]
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abubaker Khaled
+=======================================================================================================================================
 
 ![Profile views](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Abubaker Khaled
-      </h1>
-    </summary>
-  </ul>
-</div>
+Backend Software Engineer
+-------------------------
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
-  <a href="https://github.com/abubakerKhaled" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.linkedin.com/in/aboubker-khaled/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
+I am a junior software engineer with a strong passion for learning and developing innovative software. I actively utilize Django for backend development and am committed to expanding my skills and embracing new experiences..
 
-**<h3 align="left">🚀 Passionate back-end web developer, creating robust and scalable web applications. Skilled in back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [abubakerkhaled11@gmail.com](mailto:abubakerkhaled11@gmail.com)
+* 🧠  I'm learning Django and Javascript
+* 🤝  I'm open to collaborating on interisting projects
 
-**<h3 align="left">Rapid Fire</h3>**
+<a href="https://www.github.com/abubakerKhaled" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/abubakerKhaled?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 💼 I'm currently working on: **💻 Developing an e-commerce platform using Django**
-- 🌱 I'm currently learning: **📚 Django framework, JavaScript**
-- 💬 Ask me about: **💡 JavaScript, Python, Django, PostgreSQL, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged an issue while on a roller coaster!**
+### Skills
 
-**<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
-</div>
-
-
-**<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <!-- GitHub Stats Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abubakerKhaled&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <!-- GitHub Streak Card -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=abubakerKhaled&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <!-- GitHub Top Languages Card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakerKhaled&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
 
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/abubakerkhaled" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/abubakerKhaled" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aboubker-khaled/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@abubakerkhaled11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20271203/abobaker-khaled" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/abubakerKhaled"><img src="https://github-readme-stats.vercel.app/api?username=abubakerKhaled&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abubakerKhaled's GitHub stats" /></a>
+
+<a href="http://www.github.com/abubakerKhaled"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakerKhaled&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/abubakerKhaled"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abubakerKhaled&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/abubakerKhaled" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakerKhaled&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/abubakerKhaled/EcomStore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abubakerKhaled&repo=EcomStore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
